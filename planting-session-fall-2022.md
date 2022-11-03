@@ -7,5 +7,6 @@ description: What we're gonna plant on 4th/5th of November in Brentjong
 * Weinbergpfirsich
 * Maulbeeren
 * Wilde Karde
-* Beinwell
-* Amarant
+
+
+
