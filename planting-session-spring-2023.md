@@ -4,6 +4,9 @@ description: What we might plant the upcoming Spring planting session in Brentjo
 
 # 🌴 Planting session spring 2023
 
+* Beinwell
+  * alte Heilpflanze, die nebenbei auch für Hummeln sehr interessant ist
+  * [ziehen im Maerz, ausaehen im Mai](https://www.plantura.garden/kraeuter/beinwell/beinwell-pflanzenportrait#Beinwell\_pflanzen\_vermehren)
 * Bohnen (zwischen den Reben --> alte/kuemmerliche/nicht ertragsreiche Reben mit Bohnen ersetzen)
   * **Schwachzehrer**: Sie brauchen nicht viele Nährstoffe und eine übermässige Düngung kann bei einigen Kulturen sogar schädlich sein. Leguminosen wie [Bohnen](https://www.plantura.garden/gemuese/bohnen) (_Phaseolus vulgaris_) und [Erbsen](https://www.plantura.garden/gemuese/erbsen) (_Pisum sativum_) führen dank einer Symbiose mit stickstofffixierenden Bakterien zu einer Anreicherung von Stickstoff im Boden.
   * Aussat ab Mitte Mai
